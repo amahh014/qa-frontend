@@ -128,6 +128,7 @@ function SinglePost(props) {
                 </Card.Content>
               </Card>
             )}
+             <h1>Cavablar</h1>
             {comments.map((comment) => (
               <Card fluid key={comment.id}>
                 <Card.Content>
